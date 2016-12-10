@@ -1,0 +1,26 @@
+{
+  "name": "dsl_translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dsl_translator_test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinalee/dsl_translator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinalee/dsl_translator/issues"
+  },
+  "homepage": "https://github.com/trinalee/dsl_translator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
